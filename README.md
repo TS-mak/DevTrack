@@ -122,4 +122,4 @@ The project is designed for deployment on Vercel. Configure the Neon integration
 
 ## License
 
-This project is private and intended for the DevTrack workspace unless a separate license is added.
+This project is licensed under the [MIT License](LICENSE).
